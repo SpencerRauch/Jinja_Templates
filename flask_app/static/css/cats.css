@@ -1,0 +1,26 @@
+* {
+    color: orange;
+}
+
+#cats_link{
+    text-decoration: underline;
+}
+
+.side_links li{
+    margin: 2rem;
+    font-size: 2rem;
+}
+
+.landing{
+    text-align: center;
+    font-size: 2rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.main{
+    width: 100%;
+}
